@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Carrots",
+      "bought": true
+    },
+    {
+      "id": 1,
+      "name": "Cabbage",
+      "bought": true
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "bought": true
+    },
+    {
+      "id": 0,
+      "name": "Cakes"
+    },
+    {
+      "name": "dddd",
+      "id": 3,
+      "bought": true
+    },
+    {
+      "name": "ccccc",
+      "id": 4,
+      "bought": true
+    },
+    {
+      "name": "ccccc",
+      "id": 5,
+      "bought": true
+    },
+    {
+      "name": "dddddd",
+      "id": 6,
+      "bought": true
+    },
+    {
+      "name": "cdcswcdec",
+      "id": 7
+    }
+  ]
+}
